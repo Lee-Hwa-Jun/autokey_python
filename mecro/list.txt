@@ -1,0 +1,13 @@
+:www.naver.com
+:www.google.com
+:www.youtube.com
+:www.arduino.cc
+#HELLO 
+#ARDUINO 
+#PROJECT 
+#HAHA 
+!TAB
+!VOLUP
+!BS
+!ENTER
+end
